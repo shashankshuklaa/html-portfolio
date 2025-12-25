@@ -34,5 +34,21 @@ This project is a simple personal portfolio website created using HTML as part o
 - Tested on Google Chrome browser
 - All links and sections working properly
 
-## Screenshots
-(Add screenshots of website here if required)
+## CSS Concepts Used (Week 2)
+
+### Selectors
+- Element selectors (body, header, section)
+- Class and pseudo-class selectors (:hover)
+
+### Layout
+- Flexbox used for header and navigation layout
+- Box model properties like margin, padding, and border-radius applied
+
+### Styling
+- Custom color scheme using CSS variables
+- Typography and spacing for readability
+- Hover effects for links and buttons
+
+### Responsive Design
+- Media queries used to make navigation responsive on mobile devices
+- Layout adjusts for screen widths below 768px
